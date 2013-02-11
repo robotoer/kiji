@@ -1,24 +1,24 @@
 [submodule "kiji-schema"]
 	path = kiji-schema
-	url = git://github.com/kijiproject/kiji-schema.git
+	url = git@github.com:kijiproject/kiji-schema.git
 [submodule "kiji-mapreduce"]
 	path = kiji-mapreduce
-	url = git://github.com/kijiproject/kiji-mapreduce.git
+	url = git@github.com:kijiproject/kiji-mapreduce.git
 [submodule "annotations"]
 	path = annotations
-	url = git://github.com/kijiproject/annotations.git
+	url = git@github.com:kijiproject/annotations.git
 [submodule "kiji-delegation"]
 	path = kiji-delegation
-	url = git://github.com/kijiproject/kiji-delegation.git
+	url = git@github.com:kijiproject/kiji-delegation.git
 [submodule "kiji-platforms"]
 	path = kiji-platforms
-	url = git://github.com/kijiproject/kiji-platforms.git
+	url = git@github.com:kijiproject/kiji-platforms.git
 [submodule "kiji-phonebook"]
 	path = kiji-phonebook
-	url = git://github.com/kijiproject/kiji-phonebook.git
+	url = git@github.com:kijiproject/kiji-phonebook.git
 [submodule "kiji-mapreduce-lib"]
 	path = kiji-mapreduce-lib
-	url = git://github.com/kijiproject/kiji-mapreduce-lib.git
+	url = git@github.com:kijiproject/kiji-mapreduce-lib.git
 [submodule "fake-hbase"]
 	path = fake-hbase
 	url = git@github.com:kijiproject/fake-hbase
@@ -49,3 +49,6 @@
 [submodule "odiago-build"]
 	path = odiago-build
 	url = git@git.wibidata.com:odiago-build
+[submodule "avro-gradle-plugin"]
+	path = avro-gradle-plugin
+	url = git@github.com:kryzthov/avro-gradle-plugin.git
