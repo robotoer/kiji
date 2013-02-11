@@ -1,0 +1,1 @@
+include 'annotations', 'avro-gradle-plugin', 'fake-hbase', 'hadoop-configurator', 'hbase-maven-plugin', 'kiji-avro', 'kiji-common-flags', 'kiji-delegation', 'kiji-mapreduce', 'kiji-mapreduce-lib', 'kiji-music', 'kiji-phonebook', 'kiji-platforms', 'kiji-poms', 'kiji-schema', 'kiji-schema-shell'
