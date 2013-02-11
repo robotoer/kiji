@@ -1,0 +1,21 @@
+[submodule "kiji-schema"]
+	path = kiji-schema
+	url = git://github.com/kijiproject/kiji-schema.git
+[submodule "kiji-mapreduce"]
+	path = kiji-mapreduce
+	url = git://github.com/kijiproject/kiji-mapreduce.git
+[submodule "annotations"]
+	path = annotations
+	url = git://github.com/kijiproject/annotations.git
+[submodule "kiji-delegation"]
+	path = kiji-delegation
+	url = git://github.com/kijiproject/kiji-delegation.git
+[submodule "kiji-platforms"]
+	path = kiji-platforms
+	url = git://github.com/kijiproject/kiji-platforms.git
+[submodule "kiji-phonebook"]
+	path = kiji-phonebook
+	url = git://github.com/kijiproject/kiji-phonebook.git
+[submodule "kiji-mapreduce-lib"]
+	path = kiji-mapreduce-lib
+	url = git://github.com/kijiproject/kiji-mapreduce-lib.git
