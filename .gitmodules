@@ -19,3 +19,33 @@
 [submodule "kiji-mapreduce-lib"]
 	path = kiji-mapreduce-lib
 	url = git://github.com/kijiproject/kiji-mapreduce-lib.git
+[submodule "fake-hbase"]
+	path = fake-hbase
+	url = git@github.com:kijiproject/fake-hbase
+[submodule "hadoop-configurator"]
+	path = hadoop-configurator
+	url = git@github.com:kijiproject/hadoop-configurator
+[submodule "hbase-maven-plugin"]
+	path = hbase-maven-plugin
+	url = git@github.com:kijiproject/hbase-maven-plugin
+[submodule "kiji-avro"]
+	path = kiji-avro
+	url = git@github.com:kijiproject/kiji-avro
+[submodule "kiji-common-flags"]
+	path = kiji-common-flags
+	url = git@github.com:kijiproject/kiji-common-flags
+[submodule "kiji-music"]
+	path = kiji-music
+	url = git@github.com:kijiproject/kiji-music
+[submodule "kiji-poms"]
+	path = kiji-poms
+	url = git@github.com:kijiproject/kiji-poms
+[submodule "kiji-schema-shell"]
+	path = kiji-schema-shell
+	url = git@github.com:kijiproject/kiji-schema-shell
+[submodule "wibi"]
+	path = wibi
+	url = git@git.wibidata.com:wibi
+[submodule "odiago-build"]
+	path = odiago-build
+	url = git@git.wibidata.com:odiago-build
